@@ -1,0 +1,275 @@
+/* ---------------------- PRIMITIVES ------------------- */
+
+:root {
+
+/* primary - green - pale aqua  */
+--01_primitives-colors-paleaqua-50: #F1F8F7;
+--01_primitives-colors-paleaqua-100: #DEEDE8;
+--01_primitives-colors-paleaqua-200: #C6DFD9;
+--01_primitives-colors-paleaqua-300: #94C1B9;
+--01_primitives-colors-paleaqua-400: #66A198;
+--01_primitives-colors-paleaqua-500: #45847D;
+--01_primitives-colors-paleaqua-600: #336864;
+--01_primitives-colors-paleaqua-700: #295350;
+--01_primitives-colors-paleaqua-800: #224341;
+--01_primitives-colors-paleaqua-900: #1D3736;
+--01_primitives-colors-paleaqua-950: #0F1F1F;
+
+
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua10: rgba(198,223,217,0.1);
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua100: #C6DFD9;
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua20: rgba(198,223,217,0.2);
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua30: rgba(198,223,217,0.3);
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua40: rgba(198,223,217,0.4);
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua50: rgba(198,223,217,0.5);
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua60: rgba(198,223,217,0.6);
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua70: rgba(198,223,217,0.7);
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua80: rgba(198,223,217,0.8);
+--01_primitives-colors-paleaqua-transparancy100-0-paleaqua90: rgba(198,223,217,0.9);
+
+
+
+/* primary - green - mint glacier  */
+
+--01_primitives-colors-mintglacier-50: #F2F9F8;
+--01_primitives-colors-mintglacier-100: #DDF0EF;
+--01_primitives-colors-mintglacier-200: #BEE3E3;
+--01_primitives-colors-mintglacier-300: #A7D8D8;
+--01_primitives-colors-mintglacier-400: #5DB1B3;
+--01_primitives-colors-mintglacier-500: #429598;
+--01_primitives-colors-mintglacier-600: #3A7B80;
+--01_primitives-colors-mintglacier-700: #34646A;
+--01_primitives-colors-mintglacier-800: #315459;
+--01_primitives-colors-mintglacier-900: #2C484D;
+--01_primitives-colors-mintglacier-950: #192E33;
+
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier10: rgba(167,216,216,0.1);
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier100: #A7D8D8;
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier20: rgba(167,216,216,0.2);
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier30: rgba(167,216,216,0.3);
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier40: rgba(167,216,216,0.4);
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier50: rgba(167,216,216,0.5);
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier60: rgba(167,216,216,0.6);
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier70: rgba(167,216,216,0.7);
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier80: rgba(167,216,216,0.8);
+--01_primitives-colors-mintglacier-transparancy100-0-mintglacier90: rgba(167,216,216,0.9);
+
+/* primary - green - artic bay   */
+
+--01_primitives-colors-arcticbay-50: #F2F9F9;
+--01_primitives-colors-arcticbay-100: #DEEDEF;
+--01_primitives-colors-arcticbay-200: #C1DBE0;
+--01_primitives-colors-arcticbay-300: #95C2CB;
+--01_primitives-colors-arcticbay-400: #71A8B5;
+--01_primitives-colors-arcticbay-500: #478493;
+--01_primitives-colors-arcticbay-600: #3E6C7C;
+--01_primitives-colors-arcticbay-700: #375A67;
+--01_primitives-colors-arcticbay-800: #334C57;
+--01_primitives-colors-arcticbay-900: #2E414B;
+--01_primitives-colors-arcticbay-950: #1B2A31;
+
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay100: #71A8B5;
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay20: rgba(113,168,181,0.2);
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay30: rgba(113,168,181,0.3);
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay40: rgba(113,168,181,0.4);
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay50: rgba(113,168,181,0.5);
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay60: rgba(113,168,181,0.6);
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay70: rgba(113,168,181,0.7);
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay80: rgba(113,168,181,0.8);
+--01_primitives-colors-arcticbay-transparancy100-0-arcticbay90: rgba(113,168,181,0.9);
+--01_primitives-colors-arcticbay-transparancy100-0-paleaqua10: rgba(113,168,181,0.1);
+
+
+/* primary - green - stromgreen  */
+--01_primitives-colors-stormgreen-50: #F2F9F9;
+--01_primitives-colors-stormgreen-100: #DEEDEF;
+--01_primitives-colors-stormgreen-200: #C1DBE0;
+--01_primitives-colors-stormgreen-300: #95C2CB;
+--01_primitives-colors-stormgreen-400: #71A8B5;
+--01_primitives-colors-stormgreen-500: #478493;
+--01_primitives-colors-stormgreen-600: #3E6C7C;
+--01_primitives-colors-stormgreen-700: #375A67;
+--01_primitives-colors-stormgreen-800: #334C57;
+--01_primitives-colors-stormgreen-900: #2E414B;
+--01_primitives-colors-stormgreen-950: #1B2A31;
+
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen10: rgba(14,38,43,0.1);
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen100: #0E262B;
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen20: rgba(14,38,43,0.2);
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen30: rgba(14,38,43,0.3);
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen40: rgba(14,38,43,0.4);
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen50: rgba(14,38,43,0.5);
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen60: rgba(14,38,43,0.6);
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen70: rgba(14,38,43,0.7);
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen80: rgba(14,38,43,0.8);
+--01_primitives-colors-stormgreen-transparancy100-0-stormgreen90: rgba(14,38,43,0.9);
+
+
+
+/* secondary - abricot - cashmere  */
+
+--01_primitives-colors-cashmere-50: #FCF5F0;
+--01_primitives-colors-cashmere-100: #F7E8DD;
+--01_primitives-colors-cashmere-200: #E9BFA7;
+--01_primitives-colors-cashmere-300: #E3AA8E;
+--01_primitives-colors-cashmere-400: #D68261;
+--01_primitives-colors-cashmere-500: #CD6342;
+--01_primitives-colors-cashmere-600: #BF4F37;
+--01_primitives-colors-cashmere-700: #9F3D2F;
+--01_primitives-colors-cashmere-800: #80332C;
+--01_primitives-colors-cashmere-900: #3D3D3D;
+--01_primitives-colors-cashmere-950: #292929;
+
+--01_primitives-colors-cashmere-transparancy100-0-cashmere10: rgba(233,191,167,0.1);
+--01_primitives-colors-cashmere-transparancy100-0-cashmere100: #E9BFA7;
+--01_primitives-colors-cashmere-transparancy100-0-cashmere20: rgba(233,191,167,0.2);
+--01_primitives-colors-cashmere-transparancy100-0-cashmere30: rgba(233,191,167,0.3);
+--01_primitives-colors-cashmere-transparancy100-0-cashmere40: rgba(233,191,167,0.4);
+--01_primitives-colors-cashmere-transparancy100-0-cashmere50: rgba(233,191,167,0.5);
+--01_primitives-colors-cashmere-transparancy100-0-cashmere60: rgba(233,191,167,0.6);
+--01_primitives-colors-cashmere-transparancy100-0-cashmere70: rgba(233,191,167,0.7);
+--01_primitives-colors-cashmere-transparancy100-0-cashmere80: rgba(233,191,167,0.8);
+--01_primitives-colors-cashmere-transparancy100-0-cashmere90: rgba(233,191,167,0.9);
+
+
+/* secondary - blue - crystal surf  */
+
+--01_primitives-colors-crystalsurf-50: #F1F8FE;
+--01_primitives-colors-crystalsurf-100: #E3F0FB;
+--01_primitives-colors-crystalsurf-200: #C0E1F7;
+--01_primitives-colors-crystalsurf-300: #88C9F1;
+--01_primitives-colors-crystalsurf-400: #48ADE8;
+--01_primitives-colors-crystalsurf-500: #33A0E0;
+--01_primitives-colors-crystalsurf-600: #1375B6;
+--01_primitives-colors-crystalsurf-700: #105D94;
+--01_primitives-colors-crystalsurf-800: #12507A;
+--01_primitives-colors-crystalsurf-900: #144366;
+--01_primitives-colors-crystalsurf-950: #0E2B43;
+
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf10: rgba(51,160,224,0.1);
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf100: #33A0E0;
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf20: rgba(51,160,224,0.2);
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf30: rgba(51,160,224,0.3);
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf40: rgba(51,160,224,0.4);
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf50: rgba(51,160,224,0.5);
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf60: rgba(51,160,224,0.6);
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf70: rgba(51,160,224,0.7);
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf80: rgba(51,160,224,0.8);
+--01_primitives-colors-crystalsurf-transparancy100-0-crystalsurf90: rgba(51,160,224,0.9);
+
+/* secondary - blue - deep ocean  */
+
+--01_primitives-colors-deepocean-50: #EEF7FF;
+--01_primitives-colors-deepocean-100: #D8EDFF;
+--01_primitives-colors-deepocean-200: #BADFFF;
+--01_primitives-colors-deepocean-300: #8BCDFF;
+--01_primitives-colors-deepocean-400: #54AFFF;
+--01_primitives-colors-deepocean-500: #2D8DFF;
+--01_primitives-colors-deepocean-600: #166CFA;
+--01_primitives-colors-deepocean-700: #0F55E6;
+--01_primitives-colors-deepocean-800: #1345BA;
+--01_primitives-colors-deepocean-900: #163E92;
+--01_primitives-colors-deepocean-950: #10224D;
+
+--01_primitives-colors-deepocean-transparancy100-0-deepocean10: rgba(51,160,224,0.1);
+--01_primitives-colors-deepocean-transparancy100-0-deepocean100: #10224D;
+--01_primitives-colors-deepocean-transparancy100-0-deepocean20: rgba(51,160,224,0.2);
+--01_primitives-colors-deepocean-transparancy100-0-deepocean30: rgba(51,160,224,0.3);
+--01_primitives-colors-deepocean-transparancy100-0-deepocean40: rgba(51,160,224,0.4);
+--01_primitives-colors-deepocean-transparancy100-0-deepocean50: rgba(51,160,224,0.5);
+--01_primitives-colors-deepocean-transparancy100-0-deepocean60: rgba(51,160,224,0.6);
+--01_primitives-colors-deepocean-transparancy100-0-deepocean70: rgba(16,34,77,0.7);
+--01_primitives-colors-deepocean-transparancy100-0-deepocean80: rgba(16,34,77,0.8);
+--01_primitives-colors-deepocean-transparancy100-0-deepocean90: rgba(16,34,77,0.9);
+
+
+
+
+/* neutral - black - abyss */
+--01_primitives-colors-abyss-abyss10: rgba(4,14,16,0.1);
+--01_primitives-colors-abyss-abyss100: #040E10;
+--01_primitives-colors-abyss-abyss20: rgba(4,14,16,0.2);
+--01_primitives-colors-abyss-abyss30: rgba(4,14,16,0.3);
+--01_primitives-colors-abyss-abyss40: rgba(4,14,16,0.4);
+--01_primitives-colors-abyss-abyss50: rgba(4,14,16,0.5);
+--01_primitives-colors-abyss-abyss60: rgba(4,14,16,0.6);
+--01_primitives-colors-abyss-abyss70: rgba(4,14,16,0.7);
+--01_primitives-colors-abyss-abyss80: rgba(4,14,16,0.8);
+--01_primitives-colors-abyss-abyss90: rgba(4,14,16,0.9);
+
+
+/* neutral - white - snow  */
+--01_primitives-colors-snow-50: #F6F6F6;
+--01_primitives-colors-snow-100: #EFEFEF;
+--01_primitives-colors-snow-200: #DCDCDC;
+--01_primitives-colors-snow-300: #BDBDBD;
+--01_primitives-colors-snow-400: #989898;
+--01_primitives-colors-snow-500: #7C7C7C;
+--01_primitives-colors-snow-600: #656565;
+--01_primitives-colors-snow-700: #525252;
+--01_primitives-colors-snow-800: #464646;
+--01_primitives-colors-snow-900: #3D3D3D;
+--01_primitives-colors-snow-950: #292929;
+
+--01_primitives-colors-snow-transparancy100-0-snow10: rgba(246,246,246,0.1);
+--01_primitives-colors-snow-transparancy100-0-snow100: #F6F6F6;
+--01_primitives-colors-snow-transparancy100-0-snow20: rgba(246,246,246,0.2);
+--01_primitives-colors-snow-transparancy100-0-snow30: rgba(246,246,246,0.3);
+--01_primitives-colors-snow-transparancy100-0-snow40: rgba(246,246,246,0.4);
+--01_primitives-colors-snow-transparancy100-0-snow50: rgba(246,246,246,0.5);
+--01_primitives-colors-snow-transparancy100-0-snow60: rgba(246,246,246,0.6);
+--01_primitives-colors-snow-transparancy100-0-snow70: rgba(246,246,246,0.7);
+--01_primitives-colors-snow-transparancy100-0-snow80: rgba(246,246,246,0.8);
+--01_primitives-colors-snow-transparancy100-0-snow90: rgba(246,246,246,0.9);
+
+
+/* attention - sunkissed peach -  */
+--01_primitives-colors-sunkissedpeach-sunkissedpeach10: rgba(245,218,128,0.1);
+--01_primitives-colors-sunkissedpeach-sunkissedpeach100: #F5DA80;
+--01_primitives-colors-sunkissedpeach-sunkissedpeach50: rgba(245,218,128,0.5);
+
+/* succes - sunkissed peach  */
+
+--01_primitives-colors-forestsage-forestsage10: rgba(98,151,129,0.1);
+--01_primitives-colors-forestsage-forestsage100: #629781;
+--01_primitives-colors-forestsage-forestsage50: rgba(98,151,129,0.5);
+
+/* alert - coral sunset  */
+
+--01_primitives-colors-coralsunset-coralsunset10: rgba(245,128,128,0.1);
+--01_primitives-colors-coralsunset-coralsunset100: #F58080;
+--01_primitives-colors-coralsunset-coralsunset50: rgba(245,128,128,0.5);
+
+
+/* neutral - winterbreeze */
+--01_primitives-colors-winterbreeze-winterbreeze10: rgba(241,255,251,0.1);
+--01_primitives-colors-winterbreeze-winterbreeze100: #F1FFFB;
+--01_primitives-colors-winterbreeze-winterbreeze20: rgba(241,255,251,0.2);
+--01_primitives-colors-winterbreeze-winterbreeze30: rgba(241,255,251,0.3);
+--01_primitives-colors-winterbreeze-winterbreeze40: rgba(241,255,251,0.4);
+--01_primitives-colors-winterbreeze-winterbreeze60: rgba(241,255,251,0.6);
+--01_primitives-colors-winterbreeze-winterbreeze70: rgba(241,255,251,0.7);
+--01_primitives-colors-winterbreeze-winterbreeze80: rgba(241,255,251,0.8);
+--01_primitives-colors-winterbreeze-winterbreeze90: rgba(241,255,251,0.9);
+
+/* ---------------------- TOKENS ------------------- */
+
+/* background-colors */
+--00_tokens-background-colors-dark-background: var(--01_primitives-colors-stormgreen-transparancy100-0-stormgreen100);
+--00_tokens-background-colors-light-background: var(--01_primitives-colors-snow-transparancy100-0-snow100);
+--00_tokens-background-colors-primary-background: var(--01_primitives-colors-winterbreeze-winterbreeze100);
+--00_tokens-background-colors-secondary-background: var(--01_primitives-colors-deepocean-transparancy100-0-deepocean100);
+--00_tokens-background-colors-tertiary-background: var(--01_primitives-colors-mintglacier-transparancy100-0-mintglacier100);
+
+/* border-colors */
+--00_tokens-border-colors-invert-border: var(--01_primitives-colors-winterbreeze-winterbreeze100);
+--00_tokens-border-colors-primary-border: var(--01_primitives-colors-arcticbay-transparancy100-0-arcticbay100);
+--00_tokens-border-colors-secondary-border: var(--01_primitives-colors-deepocean-transparancy100-0-deepocean100);
+
+/* text-colors */
+
+--00_tokens-text-colors-primary-text: var(--01_primitives-colors-stormgreen-transparancy100-0-stormgreen100);
+--00_tokens-text-colors-secondary-text: var(--01_primitives-colors-deepocean-transparancy100-0-deepocean100);
+--00_tokens-text-colors-invert-text: var(--01_primitives-colors-snow-transparancy100-0-snow100);
+
+}
